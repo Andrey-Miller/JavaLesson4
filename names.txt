@@ -1,0 +1,10 @@
+Melnik Andrei Vasilevich 32 m
+Ivanov Ivan Ivanovich 20 m
+Petrov Petr Petrovich 21 m
+Ivavova Anna Ivanovna 25 f
+Sidorova Elena Petrovna 30 f
+Sidorov Sergei Sergeevich 40 m
+Petrova Maria Ivanovna 10 f
+Kruglov Maxim Ivanovich 50 m
+Svetlova Ekaterina Andreevna 31 f
+Morozova Anna Petrovna 12 f
